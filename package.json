@@ -59,9 +59,9 @@
 		"xo": "^0.25.3"
 	},
 	"optionalDependencies": {
-		"ffi-napi": "^2.4.5",
-		"ref-napi": "^1.4.2",
-		"ref-wchar-napi": "^1.0.2",
-		"ref-struct-napi": "^1.1.0"
+		"ffi-napi": "github:lxe/node-ffi#node-12",
+		"ref-napi": "github:lxe/ref#node-12",
+		"ref-wchar-napi": "github:Hsisav/ref-wchar",
+		"ref-struct-napi": "github:lxe/ref-struct#node-12"
 	}
 }
